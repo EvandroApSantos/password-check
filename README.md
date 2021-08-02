@@ -1,6 +1,7 @@
 # password-check
 
 This project exposes an API to handle password constraints validation.
+The purpose of it is just for practicing.
 
 ### Stack
 
